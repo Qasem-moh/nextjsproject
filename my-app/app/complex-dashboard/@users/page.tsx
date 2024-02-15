@@ -1,9 +1,9 @@
 import Card from "@/app/components/card";
 
-export default function Notifications(){
+export default function UsersAnalytics(){
     return (
         <Card>
-            Notifications
+            Users Analytics
         </Card>
     )
 }
